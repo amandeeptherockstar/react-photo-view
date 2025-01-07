@@ -19,7 +19,6 @@ package-lock.json
 *bak
 
 # visual studio code
-.vscode
 .history
 *.log
 functions/*
@@ -33,3 +32,7 @@ screenshot
 build
 *.local
 stats*
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
